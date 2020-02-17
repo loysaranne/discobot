@@ -1,11 +1,11 @@
 {
-  "name": "bot-dave",
-  "version": "0.1",
-  "description": "Bot Dave",
+  "name": "vote-bot",
+  "version": "1.0",
+  "description": "Vote Bot",
   "main": "bot.js",
-  "author": "mougari",
+  "author": "juhta",
   "dependencies": {
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.io": "^2.5.3",
     "winston": "^3.2.1"
   }
 }
